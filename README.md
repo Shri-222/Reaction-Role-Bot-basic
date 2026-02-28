@@ -205,7 +205,7 @@ Premium Version Includes:
 - 🌐 Multi-server support
 - ☁ Hosted version available (no coding required)
 
-👉 Get Premium Version Here: [YOUR_LINK]
+👉 Get Premium Version Here: (https://shri22.gumroad.com/l/Reaction-Role-Bot)
 
 ---
 
@@ -234,7 +234,7 @@ MIT License — You are free to modify and use commercially.
 # 🤝 Support
 
 - Open a GitHub issue
-- Or contact via Discord (add your support server link here)
+- Or contact via Discord 
 
 ---
 
@@ -244,5 +244,6 @@ Pull requests are welcome.
 Fork the repository and submit improvements.
 
 ---
+
 
 If this project helped you, consider starring the repository ⭐
